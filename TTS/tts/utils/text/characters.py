@@ -20,7 +20,7 @@ _pad = "<PAD>"
 _eos = "<EOS>"
 _bos = "<BOS>"
 _blank = "<BLNK>"  # TODO: check if we need this alongside with PAD
-_characters = "_characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzáảàãạâấẩầẫậăắẳằẵặđéẻèẽẹêếểềễệíỉìĩịóỏòõọôốổồỗộơớởờỡợúủùũụưứửừữựýỷỳỹỵ""
+_characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzáảàãạâấẩầẫậăắẳằẵặđéẻèẽẹêếểềễệíỉìĩịóỏòõọôốổồỗộơớởờỡợúủùũụưứửừữựýỷỳỹỵ"
 _punctuations = "!'(),-.:;? "
 
 
